@@ -1,0 +1,6 @@
+torch>=2.0.0
+transformers>=4.30.0
+pytorch-lightning>=2.0.0
+gradio>=3.50.0
+pyyaml>=6.0
+numpy>=1.24.0

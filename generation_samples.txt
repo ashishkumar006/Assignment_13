@@ -1,0 +1,787 @@
+SAMPLE GENERATIONS AT EVERY 500 STEPS
+==================================================
+
+SAMPLE AT STEP 500 - 2025-04-22 23:00:20
+----------------------------------------
+INPUT: you as you should;
+You understand me, sir: so shal...
+
+GENERATED OUTPUT:
+you as you should;
+You understand me, sir: so shall you stay
+Till you have done your business in the city:
+If this be courtesy, sir, accept of it.
+
+Pedant:
+O sir, I do; and will repute you ever
+The patron of my life and liberty.
+
+TRANIO:
+Then go with me to make the matter good.
+This, by the way, I let you understand;
+my father is here look'd for every day,
+To pass assurance of a dower in marriage
+'Twixt me and one Baptista's daughter here:
+In all these circumstances I'll instruct you:
+Go with me to clothe you as becomes you.
+
+GRUMIO:
+No, no, forsooth; I dare not for my life.
+
+KATHARINA:
+The more my wrong, the more his spite appears:
+What, did he marry me to famish me?
+Beggars, that come unto my father's door,
+Upon entreaty have a present aims;
+If not, elsewhere they meet with charity:
+But I, who never knew how to entreat,
+Nor never needed that I should entreat,
+Am starved for meat, giddy for lack of sleep,
+With oath kept waking and with brawling fed:
+And that which spites me more than all these wants,
+He does it under name of perfect love;
+As who should say, if I should sleep or eat,
+'Twere deadly sickness or else present death.
+I prithee go and get me some repast;
+I care not what, so it be wholesome food.
+
+GRUMIO:
+What say you to a neat's foot?
+
+KATHARINA:
+'Tis passing good: I prithee let me have it.
+
+GRUMIO:
+I fear it is too choleric a meat.
+How say you to a fat tripe finely broil'd?
+
+KATHARINA:
+I like it well: good Grumio, fetch it me.
+
+GRUMIO:
+I cannot tell; I fear 'tis choleric.
+What say you to a piece of beef and must
+
+========================================
+
+SAMPLE AT STEP 1000 - 2025-04-22 23:05:53
+----------------------------------------
+INPUT: in
+Whom I employ'd was pre-employ'd by him:
+He has...
+
+GENERATED OUTPUT:
+in
+Whom I employ'd was pre-employ'd by him:
+He has discover'd my design, and I
+Remain a pinch'd thing; yea, a very trick
+For them to play at will. How came the posterns
+So easily open?
+
+First Lord:
+By his great authority;
+Which often hath no less prevail'd than so
+On your command.
+
+LEONTES:
+I know't too well.
+Give me the boy: I am glad you did not nurse him:
+Though he does bear some signs of me, yet you
+Have too much blood in him.
+
+HERMIONE:
+What is this? sport?
+
+LEONTES:
+Bear the boy hence; he shall not come about her;
+Away with him! and let her sport herself
+With that she's big with; for 'tis Polixenes
+Has made thee swell thus.
+
+HERMIONE:
+But I'ld say he had not,
+And I'll be sworn you would believe my saying,
+Howe'er you lean to the nayward.
+
+LEONTES:
+You, my lords,
+Look on her, mark her well; be but about
+To say 'she is a goodly lady,' and
+The justice of your bearts will thereto add
+'Tis pity she's not honest, honourable:'
+Praise her but for this her without-door form,
+Which on my faith deserves high speech, and straight
+The shrug, the hum or ha, these petty brands
+That calumny doth use--O, I am out--
+That mercy does, for calumny will sear
+Virtue itself: these shrugs, these hums and ha's,
+When you have said 'she's goodly,' come between
+Ere you can say 'she's honest:' but be 't known,
+From him that has most cause to grieve it should be,
+She's an adulteress.
+
+HERMIONE:
+Should a villain say so,
+The most replenish'd villain in the world,
+He were as much more villain: you, my lord,
+
+
+========================================
+
+SAMPLE AT STEP 1500 - 2025-04-22 23:12:34
+----------------------------------------
+INPUT: ; whose spiritual counsel had,
+Shall stop or spur ...
+
+GENERATED OUTPUT:
+; whose spiritual counsel had,
+Shall stop or spur me. Have I done well?
+
+First Lord:
+Well done, my lord.
+
+LEONTES:
+Though I am satisfied and need no more
+Than what I know, yet shall the oracle
+Give rest to the minds of others, such as he
+Whose ignorant credulity will not
+Come up to the truth. So have we thought it good
+From our free person she should be confined,
+Lest that the treachery of the two fled hence
+Be left her to perform. Come, follow us;
+We are to speak in public; for this business
+Will raise us all.
+
+ANTIGONUS:
+
+PAULINA:
+The keeper of the prison, call to him;
+let him have knowledge who I am.
+Good lady,
+No court in Europe is too good for thee;
+What dost thou then in prison?
+Now, good sir,
+You know me, do you not?
+
+Gaoler:
+For a worthy lady
+And one whom much I honour.
+
+PAULINA:
+Pray you then,
+Conduct me to the queen.
+
+Gaoler:
+I may not, madam:
+To the contrary I have express commandment.
+
+PAULINA:
+Here's ado,
+To lock up honesty and honour from
+The access of gentle visitors!
+Is't lawful, pray you,
+To see her women? any of them? Emilia?
+
+Gaoler:
+So please you, madam,
+To put apart these your attendants, I
+Shall bring Emilia forth.
+
+PAULINA:
+I pray now, call her.
+Withdraw yourselves.
+
+Gaoler:
+And, madam,
+I must be present at your conference.
+
+PAULINA:
+Well, be't so, prithee.
+Here's such ado to make no stain a stain
+As passes colouring.
+Dear gentlewoman,
+How fares our gracious lady?
+
+EMILIA:
+As well as one so great and so forlorn
+May hold together: on her frights and griefs,
+Which never
+
+========================================
+
+SAMPLE AT STEP 2000 - 2025-04-22 23:18:57
+----------------------------------------
+INPUT: :
+And may you prove, sir, master of your art!
+
+LUC...
+
+GENERATED OUTPUT:
+:
+And may you prove, sir, master of your art!
+
+LUCENTIO:
+While you, sweet dear, prove mistress of my heart!
+
+HORTENSIO:
+Quick proceeders, marry! Now, tell me, I pray,
+You that durst swear at your mistress Bianca
+Loved none in the world so well as Lucentio.
+
+TRANIO:
+O despiteful love! unconstant womankind!
+I tell thee, Licio, this is wonderful.
+
+HORTENSIO:
+Mistake no more: I am not Licio,
+Nor a musician, as I seem to be;
+But one that scorn to live in this disguise,
+For such a one as leaves a gentleman,
+And makes a god of such a cullion:
+Know, sir, that I am call'd Hortensio.
+
+TRANIO:
+Signior Hortensio, I have often heard
+Of your entire affection to Bianca;
+And since mine eyes are witness of her lightness,
+I will with you, if you be so contented,
+Forswear Bianca and her love for ever.
+
+HORTENSIO:
+See, how they kiss and court! Signior Lucentio,
+Here is my hand, and here I firmly vow
+Never to woo her no more, but do forswear her,
+As one unworthy all the former favours
+That I have fondly flatter'd her withal.
+
+TRANIO:
+And here I take the unfeigned oath,
+Never to marry with her though she would entreat:
+Fie on her! see, how beastly she doth court him!
+
+HORTENSIO:
+Would all the world but he had quite forsworn!
+For me, that I may surely keep mine oath,
+I will be married to a wealthy widow,
+Ere three days pass, which hath as long loved me
+As I have loved this proud disdainful haggard.
+And so farewell, Signior Lucentio.
+Kindness in women, not their beauteous looks,
+Shall win my love: and so I take my leave,
+In
+
+========================================
+
+SAMPLE AT STEP 2500 - 2025-04-22 23:24:55
+----------------------------------------
+INPUT: I, Signior Gremio: but a word, I pray.
+Though the ...
+
+GENERATED OUTPUT:
+I, Signior Gremio: but a word, I pray.
+Though the nature of our quarrel yet never brooked
+parle, know now, upon advice, it toucheth us both,
+that we may yet again have access to our fair
+mistress and be happy rivals in Bianco's love, to
+labour and effect one thing specially.
+
+GREMIO:
+What's that, I pray?
+
+HORTENSIO:
+Marry, sir, to get a husband for her sister.
+
+GREMIO:
+A husband! a devil.
+
+HORTENSIO:
+I say, a husband.
+
+GREMIO:
+I say, a devil. Thinkest thou, Hortensio, though
+her father be very rich, any man is so very a fool
+to be married to hell?
+
+HORTENSIO:
+Tush, Gremio, though it pass your patience and mine
+to endure her loud alarums, why, man, there be good
+fellows in the world, an a man could light on them,
+would take her with all faults, and money enough.
+
+GREMIO:
+I cannot tell; but I had as lief take her dowry with
+this condition, to be whipped at the high cross
+every morning.
+
+HORTENSIO:
+Faith, as you say, there's small choice in rotten
+apples. But come; since this bar in law makes us
+friends, it shall be so far forth friendly
+maintained all by helping Baptista's eldest daughter
+to a husband we set his youngest free for a husband,
+and then have to't a fresh. Sweet Bianca! Happy man
+be his dole! He that runs fastest gets the ring.
+How say you, Signior Gremio?
+
+GREMIO:
+I am agreed; and would I had given him the best
+horse in Padua to begin his wooing that would
+thoroughly woo her, wed her and bed her and rid the
+house of her! Come on.
+
+TRANIO:
+I pray, sir, tell me, is it possible
+That love should of a sudden take such hold?
+
+========================================
+
+SAMPLE AT STEP 3000 - 2025-04-22 23:31:58
+----------------------------------------
+INPUT: never knew how to entreat,
+Nor never needed that I...
+
+GENERATED OUTPUT:
+never knew how to entreat,
+Nor never needed that I should entreat,
+Am starved for meat, giddy for lack of sleep,
+With oath kept waking and with brawling fed:
+And that which spites me more than all these wants,
+He does it under name of perfect love;
+As who should say, if I should sleep or eat,
+'Twere deadly sickness or else present death.
+I prithee go and get me some repast;
+I care not what, so it be wholesome food.
+
+GRUMIO:
+What say you to a neat's foot?
+
+KATHARINA:
+'Tis passing good: I prithee let me have it.
+
+GRUMIO:
+I fear it is too choleric a meat.
+How say you to a fat tripe finely broil'd?
+
+KATHARINA:
+I like it well: good Grumio, fetch it me.
+
+GRUMIO:
+I cannot tell; I fear 'tis choleric.
+What say you to a piece of beef and mustard?
+
+KATHARINA:
+A dish that I do love to feed upon.
+
+GRUMIO:
+Ay, but the mustard is too hot a little.
+
+KATHARINA:
+Why then, the beef, and let the mustard rest.
+
+GRUMIO:
+Nay then, I will not: you shall have the mustard,
+Or else you get no beef of Grumio.
+
+KATHARINA:
+Then both, or one, or any thing thou wilt.
+
+GRUMIO:
+Why then, the mustard without the beef.
+
+KATHARINA:
+Go, get thee gone, thou false deluding slave,
+That feed'st me with the very name of meat:
+Sorrow on thee and all the pack of you,
+That triumph thus upon my misery!
+Go, get thee gone, I say.
+
+PETRUCHIO:
+How fares my Kate? What, sweeting, all amort?
+
+HORTENSIO:
+Mistress, what cheer?
+
+KATHARINA:
+Fa
+
+========================================
+
+SAMPLE AT STEP 3500 - 2025-04-22 23:37:47
+----------------------------------------
+INPUT: ET:
+I' faith, I am sorry that thou art not well.
+S...
+
+GENERATED OUTPUT:
+ET:
+I' faith, I am sorry that thou art not well.
+Sweet, sweet, sweet nurse, tell me, what says my love?
+
+Nurse:
+Your love says, like an honest gentleman, and a
+courteous, and a kind, and a handsome, and, I
+warrant, a virtuous,--Where is your mother?
+
+JULIET:
+Where is my mother! why, she is within;
+Where should she be? How oddly thou repliest!
+'Your love says, like an honest gentleman,
+Where is your mother?'
+
+Nurse:
+O God's lady dear!
+Are you so hot? marry, come up, I trow;
+Is this the poultice for my aching bones?
+Henceforward do your messages yourself.
+
+JULIET:
+Here's such a coil! come, what says Romeo?
+
+Nurse:
+Have you got leave to go to shrift to-day?
+
+JULIET:
+I have.
+
+Nurse:
+Then hie you hence to Friar Laurence' cell;
+There stays a husband to make you a wife:
+Now comes the wanton blood up in your cheeks,
+They'll be in scarlet straight at any news.
+Hie you to church; I must another way,
+To fetch a ladder, by the which your love
+Must climb a bird's nest soon when it is dark:
+I am the drudge and toil in your delight,
+But you shall bear the burden soon at night.
+Go; I'll to dinner: hie you to the cell.
+
+JULIET:
+Hie to high fortune! Honest nurse, farewell.
+
+FRIAR LAURENCE:
+So smile the heavens upon this holy act,
+That after hours with sorrow chide us not!
+
+ROMEO:
+Amen, amen! but come what sorrow can,
+It cannot countervail the exchange of joy
+That one short minute gives me in her sight:
+Do thou but close our hands with holy words,
+Then love-devouring death do what he dare;
+It is enough I may but call her mine.
+
+FRIAR LA
+
+========================================
+
+SAMPLE AT STEP 4000 - 2025-04-22 23:44:26
+----------------------------------------
+INPUT: me on.
+Take up the sword again, or take up me.
+
+LA...
+
+GENERATED OUTPUT:
+me on.
+Take up the sword again, or take up me.
+
+LADY ANNE:
+Arise, dissembler: though I wish thy death,
+I will not be the executioner.
+
+GLOUCESTER:
+Then bid me kill myself, and I will do it.
+
+LADY ANNE:
+I have already.
+
+GLOUCESTER:
+Tush, that was in thy rage:
+Speak it again, and, even with the word,
+That hand, which, for thy love, did kill thy love,
+Shall, for thy love, kill a far truer love;
+To both their deaths thou shalt be accessary.
+
+LADY ANNE:
+I would I knew thy heart.
+
+GLOUCESTER:
+'Tis figured in my tongue.
+
+LADY ANNE:
+I fear me both are false.
+
+GLOUCESTER:
+Then never man was true.
+
+LADY ANNE:
+Well, well, put up your sword.
+
+GLOUCESTER:
+Say, then, my peace is made.
+
+LADY ANNE:
+That shall you know hereafter.
+
+GLOUCESTER:
+But shall I live in hope?
+
+LADY ANNE:
+All men, I hope, live so.
+
+GLOUCESTER:
+Vouchsafe to wear this ring.
+
+LADY ANNE:
+To take is not to give.
+
+GLOUCESTER:
+Look, how this ring encompasseth finger.
+Even so thy breast encloseth my poor heart;
+Wear both of them, for both of them are thine.
+And if thy poor devoted suppliant may
+But beg one favour at thy gracious hand,
+Thou dost confirm his happiness for ever.
+
+LADY ANNE:
+What is it?
+
+GLOUCESTER:
+That it would please thee leave these sad designs
+To him that hath more cause to be a mourner,
+And presently repair to Crosby Place;
+Where, after I have solemnly interr'd
+At Chertsey monastery this noble king,
+And wet his grave with my
+
+========================================
+
+SAMPLE AT STEP 4500 - 2025-04-22 23:49:46
+----------------------------------------
+INPUT: baggage!
+You tallow-face!
+
+LADY CAPULET:
+Fie, fie!...
+
+GENERATED OUTPUT:
+baggage!
+You tallow-face!
+
+LADY CAPULET:
+Fie, fie! what, are you mad?
+
+JULIET:
+Good father, I beseech you on my knees,
+Hear me with patience but to speak a word.
+
+CAPULET:
+Hang thee, young baggage! disobedient wretch!
+I tell thee what: get thee to church o' Thursday,
+Or never after look me in the face:
+Speak not, reply not, do not answer me;
+My fingers itch. Wife, we scarce thought us blest
+That God had lent us but this only child;
+But now I see this one is one too much,
+And that we have a curse in having her:
+Out on her, hilding!
+
+Nurse:
+God in heaven bless her!
+You are to blame, my lord, to rate her so.
+
+CAPULET:
+And why, my lady wisdom? hold your tongue,
+Good prudence; smatter with your gossips, go.
+
+Nurse:
+I speak no treason.
+
+CAPULET:
+O, God ye god-den.
+
+Nurse:
+May not one speak?
+
+CAPULET:
+Peace, you mumbling fool!
+Utter your gravity o'er a gossip's bowl;
+For here we need it not.
+
+LADY CAPULET:
+You are too hot.
+
+CAPULET:
+God's bread! it makes me mad:
+Day, night, hour, tide, time, work, play,
+Alone, in company, still my care hath been
+To have her match'd: and having now provided
+A gentleman of noble parentage,
+Of fair demesnes, youthful, and nobly train'd,
+Stuff'd, as they say, with honourable parts,
+Proportion'd as one's thought would wish a man;
+And then to have a wretched puling fool,
+A whining mammet, in her fortune's tender,
+To answer '
+
+========================================
+
+SAMPLE AT STEP 5000 - 2025-04-22 23:55:39
+----------------------------------------
+INPUT: 
+every lane's end, every shop, church, session,
+ha...
+
+GENERATED OUTPUT:
+
+every lane's end, every shop, church, session,
+hanging, yields a careful man work.
+
+Clown:
+See, see; what a man you are now!
+There is no other way but to tell the king
+she's a changeling and none of your flesh and blood.
+
+Shepherd:
+Nay, but hear me.
+
+Clown:
+Nay, but hear me.
+
+Shepherd:
+Go to, then.
+
+Clown:
+She being none of your flesh and blood, your flesh
+and blood has not offended the king; and so your
+flesh and blood is not to be punished by him. Show
+those things you found about her, those secret
+things, all but what she has with her: this being
+done, let the law go whistle: I warrant you.
+
+Shepherd:
+I will tell the king all, every word, yea, and his
+son's pranks too; who, I may say, is no honest man,
+neither to his father nor to me, to go about to make
+me the king's brother-in-law.
+
+Clown:
+Indeed, brother-in-law was the farthest off you
+could have been to him and then your blood had been
+the dearer by I know how much an ounce.
+
+AUTOLYCUS:
+
+Shepherd:
+Well, let us to the king: there is that in this
+fardel will make him scratch his beard.
+
+AUTOLYCUS:
+
+Clown:
+Pray heartily he be at palace.
+
+AUTOLYCUS:
+
+Shepherd:
+To the palace, an it like your worship.
+
+AUTOLYCUS:
+Your affairs there, what, with whom, the condition
+of that fardel, the place of your dwelling, your
+names, your ages, of what having, breeding, and any
+thing that is fitting to be known, discover.
+
+Clown:
+We are but plain fellows, sir.
+
+AUTOLYCUS:
+A lie; you are rough and hairy. Let me have no
+lying: it becomes none but tradesmen, and
+
+========================================
+
+SAMPLE AT STEP 5001 - 2025-04-22 23:58:39
+----------------------------------------
+INPUT: INGHAM:
+What, my gracious lord?
+
+PRINCE EDWARD:
+An...
+
+GENERATED OUTPUT:
+INGHAM:
+What, my gracious lord?
+
+PRINCE EDWARD:
+An if I live until I be a man,
+I'll win our ancient right in France again,
+Or die a soldier, as I lived a king.
+
+GLOUCESTER:
+
+BUCKINGHAM:
+Now, in good time, here comes the Duke of York.
+
+PRINCE EDWARD:
+Richard of York! how fares our loving brother?
+
+YORK:
+Well, my dread lord; so must I call you now.
+
+PRINCE EDWARD:
+Ay, brother, to our grief, as it is yours:
+Too late he died that might have kept that title,
+Which by his death hath lost much majesty.
+
+GLOUCESTER:
+How fares our cousin, noble Lord of York?
+
+YORK:
+I thank you, gentle uncle. O, my lord,
+You said that idle weeds are fast in growth
+The prince my brother hath outgrown me far.
+
+GLOUCESTER:
+He hath, my lord.
+
+YORK:
+And therefore is he idle?
+
+GLOUCESTER:
+O, my fair cousin, I must not say so.
+
+YORK:
+Then is he more beholding to you than I.
+
+GLOUCESTER:
+He may command me as my sovereign;
+But you have power in me as in a kinsman.
+
+YORK:
+I pray you, uncle, give me this dagger.
+
+GLOUCESTER:
+My dagger, little cousin? with all my heart.
+
+PRINCE EDWARD:
+A beggar, brother?
+
+YORK:
+Of my kind uncle, that I know will give;
+And being but a toy, which is no grief to give.
+
+GLOUCESTER:
+A greater gift than that I'll give my cousin.
+
+YORK:
+A greater gift! O, that's the sword to it.
+
+GLOUCESTER:
+A gentle cousin, were it light enough.
+
+YORK:
+O, then, I
+
+========================================
+
